@@ -11,3 +11,7 @@ Thumbs.db
 __pycache__/
 *.pyc
 venv/
+
+# Notas internas de trabajo con Claude (no forman parte del portfolio público)
+PROJECT.md
+CLAUDE.md
