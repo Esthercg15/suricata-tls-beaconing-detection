@@ -1,0 +1,13 @@
+# Certificados y claves generadas durante el laboratorio (no se suben, son datos del propio lab)
+*.pem
+*.key
+*.crt
+
+# Archivos de entorno/sistema
+.DS_Store
+Thumbs.db
+
+# Entornos Python, si se usan
+__pycache__/
+*.pyc
+venv/
